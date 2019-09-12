@@ -1,0 +1,10 @@
+print ('dictionaries, keys value pair')
+e = {1:'hello',2:3,3:'5'}
+print (type(e))
+print ('dictionaries, keys are immutbale, but unordereed array here so can refer any time')
+print (e[1], e[2], e[3])
+print ('dictionaries, values are Mutbale, so can be changed any time, can be int string, tuple, list etc')
+e[2] = ([3,4,5])
+print (e)
+e[2] = ('hello check value is mutable')
+print (e)
