@@ -1,2 +1,0 @@
-# PavanPython
-Play with Python
