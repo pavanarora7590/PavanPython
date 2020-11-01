@@ -1,5 +1,5 @@
 a = 5
-print type(a)
+print (type(a))
 
 a = 12
 print a
