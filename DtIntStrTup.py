@@ -18,6 +18,4 @@ print (type(c))
 print (c[0], c)
 c = c[0:2]
 print (c,type(c))
-
-
-
+print('test commit via pycharm 123')
