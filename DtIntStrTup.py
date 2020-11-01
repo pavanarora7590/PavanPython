@@ -15,4 +15,4 @@ c = (1,2,'fg')
 print (type(c))
 print (c[0], c)
 c = c[0:2]
-print (type(c))
+print (c, type(c))
